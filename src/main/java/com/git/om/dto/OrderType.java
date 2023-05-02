@@ -1,4 +1,4 @@
-package com.ef.om;
+package com.git.om.dto;
 
 public enum OrderType {
     REGULAR,
